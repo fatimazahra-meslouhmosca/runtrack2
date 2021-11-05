@@ -1,11 +1,7 @@
 <?php
 
 $str =  "On n est pas le meilleur quand on le croit mais quand on le sait";
-$i =0;
-$voy=0;
-$j=0;
-$cons=0;
-$k=0;
+
 $pourcompter =0;
 $pourcompter2=0;
 
